@@ -1,4 +1,4 @@
-puts "_________________Multiples of three and five______________________"
+puts "____________________Multiples of three and five______________________"
 
 def multips_below num
 	r = []
